@@ -8,3 +8,5 @@ Um app que facilita a localizacao para empresas de coletas, com metas semanais, 
 e pontos que podem ser trocados por algum produto, de empresas parceiras, empresas que usam materiais reciclados 
 em seus produtos, como papelaria reciclada, recipientes de plastico, etc.
 
+Os trabalhos e detalhes importantes como, **jornada do usuário**, ***taskflow*** e ***usermap*** estão todos no ***[Figma](https://www.figma.com/board/GXb1vzGwma4Yob3uwALRW4/Design-UX%2FUI---Grupo-3---Entrega-1?node-id=0-1&t=DHfZ3w9HDASZ4Cvo-1)***.
+
